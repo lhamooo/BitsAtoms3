@@ -1,0 +1,23 @@
+{
+  "name": "bitsatoms3",
+  "version": "1.0.0",
+  "description": "In the Data Visualization module, I explore both fundamental and advanced concepts for visually representing data. The goal is to transform complex datasets into visualizations that are easy to understand, intuitive to interpret, and visually appealing for different audiences.",
+  "main": "temp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhamooo/BitsAtoms3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhamooo/BitsAtoms3/issues"
+  },
+  "homepage": "https://github.com/lhamooo/BitsAtoms3#readme",
+  "dependencies": {
+    "serve": "^14.2.5"
+  }
+}
